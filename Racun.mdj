@@ -169,8 +169,8 @@
 													"left": 61,
 													"top": 159,
 													"width": 143,
-													"height": 26,
-													"text": "Izbor proizvoda za koji se kreira izvještaj",
+													"height": 39,
+													"text": "Izbor proizvoda za koje se kreira izvještaj o prodaji",
 													"wordWrap": true
 												},
 												{
@@ -203,7 +203,7 @@
 											"left": 56,
 											"top": 152,
 											"width": 153,
-											"height": 38,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF9qQg11dUSIgM="
 											},
@@ -223,7 +223,7 @@
 									"left": 56,
 									"top": 152,
 									"width": 153,
-									"height": 54,
+									"height": 67,
 									"nameCompartment": {
 										"$ref": "AAAAAAF9qQg11dUR+B8="
 									},
@@ -445,8 +445,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 144,
-											"top": 216,
+											"left": 143,
+											"top": 222,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -466,8 +466,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 159,
-											"top": 217,
+											"left": 158,
+											"top": 222,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -487,8 +487,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 115,
-											"top": 215,
+											"left": 114,
+											"top": 223,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -506,7 +506,7 @@
 										"$ref": "AAAAAAF9qQg11NUQhmI="
 									},
 									"lineStyle": 1,
-									"points": "131:206;129:239",
+									"points": "130:219;129:239",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qQw2wdVk4WY="
@@ -1443,7 +1443,7 @@
 										"$ref": "AAAAAAF9qimzrFQzk1w="
 									},
 									"lineStyle": 1,
-									"points": "130:463;32:360;32:192;55:189",
+									"points": "130:463;32:360;32:192;55:190",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qisd1VRnkkE="
@@ -1473,7 +1473,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Izbor proizvoda za koji se kreira izvještaj"
+							"name": "Izbor proizvoda za koje se kreira izvještaj o prodaji"
 						},
 						{
 							"_type": "UMLAction",

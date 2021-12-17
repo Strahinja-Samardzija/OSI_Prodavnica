@@ -6160,7 +6160,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF9n5vSsTuagq0="
 					},
-					"name": "#F4: Kreiranje izvještaja",
+					"name": "#F4: Kreiranje izvještaja o prodaji",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -8246,11 +8246,11 @@
 												"$ref": "AAAAAAF9oJvGKG9lRHA="
 											},
 											"font": "Arial;13;1",
-											"left": 575.5,
-											"top": 1038,
-											"width": 117,
+											"left": 577.5,
+											"top": 1047.5,
+											"width": 126,
 											"height": 26,
-											"text": "#F4: Kreiranje izvještaja",
+											"text": "#F4: Kreiranje izvještaja o prodaji",
 											"wordWrap": true
 										},
 										{
@@ -8282,9 +8282,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 570.5,
-									"top": 1031,
-									"width": 127,
+									"left": 572.5,
+									"top": 1040.5,
+									"width": 136,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF9oJvGKG9m1oo="
@@ -8384,8 +8384,8 @@
 							"containerChangeable": true,
 							"left": 544,
 							"top": 1024,
-							"width": 180,
-							"height": 53,
+							"width": 193,
+							"height": 72,
 							"nameCompartment": {
 								"$ref": "AAAAAAF9oJvGKG9lRHA="
 							},
