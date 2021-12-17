@@ -3213,7 +3213,7 @@
 													"top": 311,
 													"width": 151,
 													"height": 39,
-													"text": "Traži unos unos korisničkog imena i lozinke",
+													"text": "Prikaz forme za unos korisničkog imena i lozinke",
 													"wordWrap": true
 												},
 												{
@@ -5186,7 +5186,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF9qMibtxNHIHM="
 									},
-									"name": "Traži unos unos korisničkog imena i lozinke"
+									"name": "Prikaz forme za unos korisničkog imena i lozinke"
 								},
 								{
 									"_type": "UMLForkNode",
