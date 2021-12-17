@@ -57,7 +57,7 @@
 											"top": 52,
 											"width": 233,
 											"height": 13,
-											"text": "Poslovođa",
+											"text": "Šef",
 											"verticalAlignment": 3
 										}
 									],
@@ -1664,7 +1664,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Poslovođa"
+							"name": "Šef"
 						},
 						{
 							"_type": "UMLActivityPartition",
@@ -2225,9 +2225,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 31,
-											"top": 206,
+											"top": 213,
 											"width": 109.84619140625,
-											"height": 26,
+											"height": 13,
 											"alpha": -1.3147549572654167,
 											"distance": 45.880278987817846,
 											"hostEdge": {
