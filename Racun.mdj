@@ -89,7 +89,7 @@
 											"font": "Arial;13;0",
 											"left": 248,
 											"top": 52,
-											"width": 201,
+											"width": 217,
 											"height": 13,
 											"text": "Sistem",
 											"verticalAlignment": 3
@@ -106,7 +106,7 @@
 									"font": "Arial;13;0",
 									"left": 248,
 									"top": 48,
-									"width": 201,
+									"width": 217,
 									"height": 593,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qP+eCdT7Vt8="
@@ -868,11 +868,11 @@
 														"$ref": "AAAAAAF9qQ3ZDNWtd7A="
 													},
 													"font": "Arial;13;1",
-													"left": 261,
+													"left": 285,
 													"top": 535,
-													"width": 176.287109375,
+													"width": 127,
 													"height": 13,
-													"text": "Kreiranje izvještaja o prodaji"
+													"text": "Ispis izvještaja"
 												},
 												{
 													"_type": "LabelView",
@@ -903,9 +903,9 @@
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 256,
+											"left": 280,
 											"top": 528,
-											"width": 186.287109375,
+											"width": 137,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF9qQ3ZDdWuvuo="
@@ -926,9 +926,9 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 256,
+									"left": 280,
 									"top": 528,
-									"width": 186.287109375,
+									"width": 137,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAF9qQ3ZDNWtd7A="
@@ -1075,7 +1075,7 @@
 												"$ref": "AAAAAAF9qii1u1QW6yI="
 											},
 											"edgePosition": 1,
-											"text": "Ne"
+											"text": "[ne]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1189,9 +1189,9 @@
 												"$ref": "AAAAAAF9qioNxFQ7ISk="
 											},
 											"font": "Arial;13;0",
-											"left": 151,
+											"left": 149,
 											"top": 504,
-											"width": 16.6181640625,
+											"width": 21.68359375,
 											"height": 13,
 											"alpha": 1.551092571260084,
 											"distance": 44.598206241955516,
@@ -1199,7 +1199,7 @@
 												"$ref": "AAAAAAF9qioNxFQ8ivA="
 											},
 											"edgePosition": 1,
-											"text": "Da"
+											"text": "[da]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1284,17 +1284,17 @@
 												"$ref": "AAAAAAF9qirPvlRSYZU="
 											},
 											"font": "Arial;13;0",
-											"left": 311,
+											"left": 296,
 											"top": 416,
-											"width": 16.6181640625,
+											"width": 21.68359375,
 											"height": 13,
-											"alpha": 3.2585324647177063,
-											"distance": 80.65358020571685,
+											"alpha": 3.3220683497842147,
+											"distance": 68.54195795277518,
 											"hostEdge": {
 												"$ref": "AAAAAAF9qirPv1RTEkI="
 											},
 											"edgePosition": 1,
-											"text": "Da"
+											"text": "[da]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1379,9 +1379,9 @@
 												"$ref": "AAAAAAF9qisd1VRl4Q4="
 											},
 											"font": "Arial;13;0",
-											"left": 103,
+											"left": 101,
 											"top": 415,
-											"width": 16.6181640625,
+											"width": 21.68359375,
 											"height": 13,
 											"alpha": -2.645611131791183,
 											"distance": 166.00301202086666,
@@ -1389,7 +1389,7 @@
 												"$ref": "AAAAAAF9qisd1VRm6dU="
 											},
 											"edgePosition": 1,
-											"text": "Ne"
+											"text": "[ne]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1606,7 +1606,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Ne",
+							"name": "[ne]",
 							"source": {
 								"$ref": "AAAAAAF9qiWAR1Pf7eA="
 							},
@@ -1620,7 +1620,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Da",
+							"name": "[da]",
 							"source": {
 								"$ref": "AAAAAAF9qimzrFQx2X0="
 							},
@@ -1634,7 +1634,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Da",
+							"name": "[da]",
 							"source": {
 								"$ref": "AAAAAAF9qiWAR1Pf7eA="
 							},
@@ -1648,7 +1648,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Ne",
+							"name": "[ne]",
 							"source": {
 								"$ref": "AAAAAAF9qimzrFQx2X0="
 							},
@@ -1688,7 +1688,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF9qP+eCNT4Vdk="
 									},
-									"name": "Kreiranje izvještaja o prodaji"
+									"name": "Ispis izvještaja"
 								}
 							]
 						}
@@ -2320,9 +2320,9 @@
 												"$ref": "AAAAAAF9qhkyGgFflEc="
 											},
 											"font": "Arial;13;0",
-											"left": 151,
+											"left": 149,
 											"top": 232,
-											"width": 16.6181640625,
+											"width": 21.68359375,
 											"height": 13,
 											"alpha": -3.7994806616665073,
 											"distance": 27.80287754891569,
@@ -2330,7 +2330,7 @@
 												"$ref": "AAAAAAF9qhkyGgFgy44="
 											},
 											"edgePosition": 1,
-											"text": "Da"
+											"text": "[da]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2646,9 +2646,9 @@
 												"$ref": "AAAAAAF9qhpxbwGFwro="
 											},
 											"font": "Arial;13;0",
-											"left": 143,
+											"left": 141,
 											"top": 288,
-											"width": 16.6181640625,
+											"width": 21.68359375,
 											"height": 13,
 											"alpha": 0.5977107277470038,
 											"distance": 18.027756377319946,
@@ -2656,7 +2656,7 @@
 												"$ref": "AAAAAAF9qhpxcAGGOUw="
 											},
 											"edgePosition": 1,
-											"text": "Ne"
+											"text": "[ne]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2836,7 +2836,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qRToL9XzlNE="
 							},
-							"name": "Da",
+							"name": "[da]",
 							"source": {
 								"$ref": "AAAAAAF9qhhhHgFFYUs="
 							},
@@ -2850,7 +2850,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qRToL9XzlNE="
 							},
-							"name": "Ne",
+							"name": "[ne]",
 							"source": {
 								"$ref": "AAAAAAF9qhhhHgFFYUs="
 							},
