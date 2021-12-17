@@ -14089,7 +14089,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 503,
-									"top": 511,
+									"top": 512,
 									"width": 70.82080078125,
 									"height": 13,
 									"alpha": -1.6272151179884182,
@@ -14111,7 +14111,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 604,
+									"left": 605,
 									"top": 529,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -14132,7 +14132,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 560,
+									"left": 561,
 									"top": 519,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -14151,7 +14151,7 @@
 								"$ref": "AAAAAAF9pauluD56PXo="
 							},
 							"lineStyle": 1,
-							"points": "585:491;566:567",
+							"points": "585:491;568:567",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF9pbK/HD7y7Ow="
@@ -14730,8 +14730,8 @@
 											"left": 485,
 											"top": 575,
 											"width": 151,
-											"height": 26,
-											"text": "Prikaz poruke: Neispravan format",
+											"height": 39,
+											"text": "Prikaz poruke: Neipsravno korisničko ime ili lozinka",
 											"wordWrap": true
 										},
 										{
@@ -14766,7 +14766,7 @@
 									"left": 480,
 									"top": 568,
 									"width": 161,
-									"height": 38,
+									"height": 51,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF9ye5ZlmtJIvw="
 									},
@@ -14786,7 +14786,7 @@
 							"left": 480,
 							"top": 568,
 							"width": 161,
-							"height": 54,
+							"height": 67,
 							"nameCompartment": {
 								"$ref": "AAAAAAF9ye5ZlmtIrKk="
 							},
@@ -14874,7 +14874,7 @@
 								"$ref": "AAAAAAF9ye5ZlmtHCOA="
 							},
 							"lineStyle": 1,
-							"points": "479:591;304:584;307:374",
+							"points": "479:596;304:584;307:374",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF9ye916GtoH5M="
@@ -14904,7 +14904,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF9paIk3z1KNbM="
 					},
-					"name": "Prikaz poruke: Neispravan format"
+					"name": "Prikaz poruke: Neipsravno korisničko ime ili lozinka"
 				}
 			],
 			"edges": [

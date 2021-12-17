@@ -379,7 +379,7 @@
 													"left": 597,
 													"top": 911,
 													"width": 175,
-													"height": 26,
+													"height": 13,
 													"text": "Brisanje naloga \"prvog\" šefa",
 													"wordWrap": true
 												},
@@ -415,7 +415,7 @@
 											"left": 592,
 											"top": 904,
 											"width": 185,
-											"height": 38,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF9qMHIUzzRSm4="
 											},
@@ -486,7 +486,7 @@
 													"left": 413,
 													"top": 511,
 													"width": 167,
-													"height": 39,
+													"height": 26,
 													"text": "Provjera formata korisničkog imena i lozinke",
 													"wordWrap": true
 												},
@@ -522,7 +522,7 @@
 											"left": 408,
 											"top": 504,
 											"width": 177,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF9qOMm/hZgyjk="
 											},
@@ -3605,8 +3605,8 @@
 												"$ref": "AAAAAAF9qN7ZQhXTPUw="
 											},
 											"font": "Arial;13;0",
-											"left": 515,
-											"top": 943,
+											"left": 523,
+											"top": 935,
 											"width": 76.603515625,
 											"height": 13,
 											"alpha": 1.487571696442041,
@@ -3628,8 +3628,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 539,
-											"top": 940,
+											"left": 548,
+											"top": 935,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -3649,8 +3649,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 495,
-											"top": 944,
+											"left": 504,
+											"top": 946,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -3668,7 +3668,7 @@
 										"$ref": "AAAAAAF9qN2y1hWkTHw="
 									},
 									"lineStyle": 1,
-									"points": "508:907;513:991",
+									"points": "509:907;530:991",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qN7ZQhXVvc0="
@@ -3796,8 +3796,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 520,
-											"top": 1063,
+											"left": 530,
+											"top": 1066,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -3817,8 +3817,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 535,
-											"top": 1065,
+											"left": 544,
+											"top": 1071,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -3838,8 +3838,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 491,
-											"top": 1060,
+											"left": 501,
+											"top": 1057,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -3857,7 +3857,7 @@
 										"$ref": "AAAAAAF9qN50qxW70lo="
 									},
 									"lineStyle": 1,
-									"points": "511:1033;502:1103",
+									"points": "528:1033;504:1103",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qOA7DxYHDOk="
@@ -4524,9 +4524,9 @@
 													"font": "Arial;13;1",
 													"left": 397,
 													"top": 999,
-													"width": 236.2216796875,
+													"width": 277.4052734375,
 													"height": 13,
-													"text": "Potvrda o uspješnom kreiranju naloga"
+													"text": "Prikaz potvrde o uspješnom kreiranju naloga"
 												},
 												{
 													"_type": "LabelView",
@@ -4559,7 +4559,7 @@
 											"font": "Arial;13;0",
 											"left": 392,
 											"top": 992,
-											"width": 246.2216796875,
+											"width": 287.4052734375,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF9qN50rBW93as="
@@ -4582,7 +4582,7 @@
 									"containerChangeable": true,
 									"left": 392,
 									"top": 992,
-									"width": 246.2216796875,
+									"width": 287.4052734375,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAF9qN50qxW8dsI="
@@ -5234,7 +5234,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF9qMibtxNHIHM="
 									},
-									"name": "Potvrda o uspješnom kreiranju naloga"
+									"name": "Prikaz potvrde o uspješnom kreiranju naloga"
 								},
 								{
 									"_type": "UMLActivityFinalNode",
