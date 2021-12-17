@@ -170,7 +170,7 @@
 													"top": 159,
 													"width": 143,
 													"height": 39,
-													"text": "Izbor proizvoda za koje se kreira izvještaj o prodaji",
+													"text": "Izbor artikala za koje se kreira izvještaj o prodaji",
 													"wordWrap": true
 												},
 												{
@@ -365,7 +365,7 @@
 													"top": 247,
 													"width": 135,
 													"height": 26,
-													"text": "Izbor perioda prodaje proizvoda",
+													"text": "Izbor perioda prodaje artikala",
 													"wordWrap": true
 												},
 												{
@@ -559,9 +559,9 @@
 													"font": "Arial;13;1",
 													"left": 269,
 													"top": 311,
-													"width": 151,
-													"height": 26,
-													"text": "Pretraga u računima iz datog perioda",
+													"width": 175,
+													"height": 39,
+													"text": "Pronalaženje zapisa o prodaji izabranih artikala u računima iz datog perioda",
 													"wordWrap": true
 												},
 												{
@@ -595,8 +595,8 @@
 											"font": "Arial;13;0",
 											"left": 264,
 											"top": 304,
-											"width": 161,
-											"height": 38,
+											"width": 185,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAF9qQyloNV30PE="
 											},
@@ -615,8 +615,8 @@
 									"containerChangeable": true,
 									"left": 264,
 									"top": 304,
-									"width": 161,
-									"height": 54,
+									"width": 185,
+									"height": 67,
 									"nameCompartment": {
 										"$ref": "AAAAAAF9qQyloNV2ud0="
 									},
@@ -644,7 +644,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 236,
-											"top": 276,
+											"top": 277,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -664,8 +664,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 240,
-											"top": 262,
+											"left": 241,
+											"top": 263,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -686,7 +686,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 227,
-											"top": 305,
+											"top": 306,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -704,7 +704,7 @@
 										"$ref": "AAAAAAF9qQtbmdVBUts="
 									},
 									"lineStyle": 1,
-									"points": "201:288;263:306",
+									"points": "201:289;263:308",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qQ1vlNWYIAE="
@@ -970,8 +970,8 @@
 												"$ref": "AAAAAAF9qiWVOlPkmEw="
 											},
 											"font": "Arial;13;0",
-											"left": 348,
-											"top": 382,
+											"left": 351,
+											"top": 395,
 											"width": 99,
 											"height": 26,
 											"alpha": 1.3649477873038052,
@@ -994,8 +994,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 375,
-											"top": 378,
+											"left": 379,
+											"top": 389,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1015,8 +1015,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 331,
-											"top": 380,
+											"left": 335,
+											"top": 385,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1034,7 +1034,7 @@
 										"$ref": "AAAAAAF9qQylntV1xl8="
 									},
 									"lineStyle": 1,
-									"points": "345:358;347:415",
+									"points": "353:371;348:415",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAF9qiWVOlPmm4g="
@@ -1473,7 +1473,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Izbor proizvoda za koje se kreira izvještaj o prodaji"
+							"name": "Izbor artikala za koje se kreira izvještaj o prodaji"
 						},
 						{
 							"_type": "UMLAction",
@@ -1481,7 +1481,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Izbor perioda prodaje proizvoda"
+							"name": "Izbor perioda prodaje artikala"
 						},
 						{
 							"_type": "UMLAction",
@@ -1489,7 +1489,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9qP7xEdTqIiI="
 							},
-							"name": "Pretraga u računima iz datog perioda"
+							"name": "Pronalaženje zapisa o prodaji izabranih artikala u računima iz datog perioda"
 						},
 						{
 							"_type": "UMLDecisionNode",
