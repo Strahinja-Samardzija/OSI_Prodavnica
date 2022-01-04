@@ -7101,7 +7101,7 @@
 													"top": 975,
 													"width": 207,
 													"height": 26,
-													"text": "Potvrda o uspješnom brisanju naloga",
+													"text": "Prikaz potvrde o uspješnom brisanju naloga",
 													"wordWrap": true
 												},
 												{
@@ -7758,7 +7758,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF9qOtBORgTNTs="
 									},
-									"name": "Potvrda o uspješnom brisanju naloga"
+									"name": "Prikaz potvrde o uspješnom brisanju naloga"
 								}
 							]
 						}
