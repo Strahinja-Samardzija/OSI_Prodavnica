@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1641675350 source:d:\projekatosi\osi_prodavnica\f4\f4_izvjestaj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"izvjestaj.h"
+
+1641675327 d:\projekatosi\osi_prodavnica\f4\f4_izvjestaj\izvjestaj.h
+
+1641675327 source:d:\projekatosi\osi_prodavnica\f4\f4_izvjestaj\izvjestaj.c
+	<direct.h>
+	<dirent.h>
+	<stdio.h>
+	"izvjestaj.h"
+
