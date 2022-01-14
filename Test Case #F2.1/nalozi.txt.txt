@@ -1,0 +1,6 @@
+0 Marko123 lozinkaM1 2
+1 Sanja123 lozinkaS2 3
+1 Ivan123 lozinkaI3 1
+1 Jelena123 lozinkaJ5 0
+1 Sandra123 lozinkaS6 0
+1 Anja123 lozinkaA7 0
